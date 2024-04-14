@@ -1,4 +1,3 @@
-# OCTANET_APRIL
-DeepBreath is a Landing Page which is the first assigned task of the Octanet Internship Program.
-![s1](https://github.com/PariBainsla/OCTANET_APRIL/assets/153187084/75c0998d-136b-4bcb-a37d-d44ddec1849b)
-![s2](https://github.com/PariBainsla/OCTANET_APRIL/assets/153187084/9fcb2593-8eb2-4351-99ae-531d1378b950)
+# OCTANET_APRIL-to-dolist-
+This is the second assigned task of the web development internship at Octanet.
+![s](https://github.com/PariBainsla/OCTANET_APRIL-to-dolist-/assets/153187084/4a136599-a86a-40e9-b9b8-5bbf00d8bd1d)
